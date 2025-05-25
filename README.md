@@ -91,4 +91,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author Information
 - **Author**: [Yashwanth Balaji](https://github.com/Yashwanth2408)
-- **Email**: [yashwanthbalaji.2408@gmail.com@gmail.com](mailto:yashwanthbalaji.2408@gmail.com@gmail.com)
+- **Email**: [yashwanthbalaji.2408@gmail.com](mailto:yashwanthbalaji.2408@gmail.com)
