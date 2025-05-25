@@ -90,5 +90,5 @@ If you would like to contribute to this project, please fork the repository and 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author Information
-- **Author**: [msnabiel](https://github.com/msnabiel)
-- **Email**: [msyednabiel@gmail.com](mailto:msyednabiel@gmail.com)
+- **Author**: [Yashwanth Balaji](https://github.com/Yashwanth2408)
+- **Email**: [yashwanthbalaji.2408@gmail.com@gmail.com](mailto:yashwanthbalaji.2408@gmail.com@gmail.com)
