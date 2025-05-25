@@ -1,4 +1,4 @@
-# RX-Asisstant-PS4-GPTeam
+# RX-Asisstant-RAG NLP Chatbot
 
 This repository contains a powerful assistant built using Flask and various machine learning models to extract key information from user queries and documents. It supports various document formats such as PDF, PPT, DOCX, and images, allowing users to upload and extract relevant information dynamically.
 
